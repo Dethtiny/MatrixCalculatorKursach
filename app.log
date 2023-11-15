@@ -1,0 +1,3 @@
+18:38:32.839 [JavaFX Application Thread] ERROR com.example.matrixcalc.HelloController - Не удалсь выполнить операцию сложения
+18:39:34.076 [JavaFX Application Thread] ERROR com.example.matrixcalc.HelloController - Не удалсь выполнить операцию сложения
+18:39:41.807 [JavaFX Application Thread] INFO  com.example.matrixcalc.HelloController - Загружена первая матрица
